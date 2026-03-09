@@ -2,10 +2,10 @@
 
 A beautiful, real-time **analog clock** built with pure **HTML, CSS, and JavaScript**. It displays the current system time with smoothly rotating hour, minute, and second hands on a classic circular dial (1–12).
 
-Live Demo: [Open in Browser](https://mdrajatech03.github.io/Analog-Clock/)  
+Live 🌐 Demo: [Open in Browser](https://mdrajatech03.github.io/Analog-Clock/)  
 
 
-## Screenshot
+**Screenshot**
 ![Analog-Clock Screenshot](screenshot.jpg)
 
 ## ✨ Features
@@ -21,5 +21,5 @@ Live Demo: [Open in Browser](https://mdrajatech03.github.io/Analog-Clock/)
 - JavaScript (Date API + setInterval)
 
 ## 🚀 How to Run Locally
-1. ## Rajatech ##
+1. **Rajatech**
 GitHub: https://github.com/mdrajatech03
