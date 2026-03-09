@@ -21,6 +21,5 @@ Live Demo: [Open in Browser](https://mdrajatech03.github.io/Analog-Clock/)
 - JavaScript (Date API + setInterval)
 
 ## 🚀 How to Run Locally
-1. Clone the repository:
-   ```bash
-   git clone: (https://github.com/mdrajatech03/Analog-Clock.git)
+1. ## Rajatech ##
+GitHub: https://github.com/mdrajatech03
