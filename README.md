@@ -5,7 +5,7 @@ A beautiful, real-time **analog clock** built with pure **HTML, CSS, and JavaScr
 Live 🌐 Demo: [Open in Browser](https://mdrajatech03.github.io/Analog-Clock/)  
 
 
-**Screenshot**
+## Screenshot ##
 ![Analog-Clock Screenshot](screenshot.jpg)
 
 ## ✨ Features
