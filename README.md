@@ -8,6 +8,9 @@ A beautiful, real-time **analog clock** built with pure **HTML, CSS, and JavaScr
 Live Demo: [Open in Browser](https://mdrajatech03.github.io/Analog-Clock/)  
 *(Add this link after deploying to GitHub Pages – बहुत जरूरी है!)*
 
+
+##Screenshot
+![Analog-Clock Screenshot](screenshot.jpg)
 ## ✨ Features
 - Real-time clock updates every second
 - Smooth hand rotations using CSS transforms
