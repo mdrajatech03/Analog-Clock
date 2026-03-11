@@ -1,37 +1,75 @@
-#clockContainer{  
-    position: relative;
-    margin: auto;
-    height: 40vw;
-    width: 40vw; 
-    background: url(clock.png) no-repeat;
-    background-size: 100%;
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
 }
 
+body{
+height:100vh;
+display:flex;
+justify-content:center;
+align-items:center;
+background:#111;
+}
+
+/* center container */
+.container{
+display:flex;
+justify-content:center;
+align-items:center;
+width:100%;
+}
+
+/* clock */
+#clockContainer{
+position:relative;
+width:90vw;
+height:90vw;
+max-width:450px;
+max-height:450px;
+background:url(clock.png) no-repeat;
+background-size:100%;
+}
+
+/* common hand style */
 #hour, #minute, #second{
-    position: absolute;
-    background: black;
-    border-radius: 10px; 
-    transform-origin: bottom;
+position:absolute;
+background:black;
+border-radius:10px;
+transform-origin:bottom;
 }
+
+/* hour hand */
 #hour{
-    width: 1.8%;
-    height: 25%;
-    top: 25%;
-    left: 48.85%;
-    opacity: 0.8;  
+width:1.8%;
+height:25%;
+top:25%;
+left:48.85%;
 }
+
+/* minute hand */
 #minute{
-    width: 1.6%;
-    height: 30%;
-    top: 19%;
-    left: 48.9%;
-    opacity: 0.8;  
+width:1.5%;
+height:30%;
+top:19%;
+left:49%;
 }
+
+/* second hand */
 #second{
-    width: 1%;
-    height: 40%;
-    top: 9%;
-    left: 49.25%;
-    opacity: 0.8; 
-    
+width:1%;
+height:40%;
+top:9%;
+left:49.25%;
+background:red;
+}
+
+/* mobile optimization */
+@media (max-width:600px){
+
+#clockContainer{
+width:95vw;
+height:95vw;
+}
+
 }
